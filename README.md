@@ -2,10 +2,10 @@
 
 ## Packager managers support
 
-[x] apt
-[ ] yum
-[ ] pacman
-[ ] rpm(?)
+- [x] apt
+- [ ] yum
+- [ ] pacman
+- [ ] rpm(?)
 
 ### Still in development
 
